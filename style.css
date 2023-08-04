@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+p,
+li,
+a {
+  font-family: Verdana;
+}
+
+li {
+  padding: 0.25em 0;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #7eaa92;
+}
+
+main {
+  background-color: #c8e4b2;
+}
